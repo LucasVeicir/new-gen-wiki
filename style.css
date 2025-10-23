@@ -1,0 +1,38 @@
+#bghome{
+    background-image: url("new.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+#bggalery{
+    background-color: rgba(46, 46, 9, 0.568);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+a{
+    color: gold;
+    padding: 10px;
+    font-size: 25px;
+    margin-top: 100px;
+}
+
+img{
+    width: 1120px;
+}
+
+#img-history{
+    width: 500px !important;
+    margin-top: 10px;
+}
